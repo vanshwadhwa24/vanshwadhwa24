@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vanshwadhwa24/vanshwadhwa24/main/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar" />
-</p>
 
 <!--
 **vanshwadhwa24/vanshwadhwa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
